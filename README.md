@@ -1,5 +1,9 @@
 # About US
 
+## NO LONGER SUPPORTED
+
+Please see https://github.com/Filiski/filiskicom for a newer version
+
 ## Purpose
 
 Dans un soucis de transparence avec ses clients, Filiski publiera sa communication dans ce dépôt (Github peut servir à plein de choses, si vous voulez en savoir plus, hésitez pas à nous contacter ! ).
